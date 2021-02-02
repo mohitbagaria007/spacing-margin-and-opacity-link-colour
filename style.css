@@ -1,0 +1,144 @@
+h1 { 
+    color: blue; 
+    font-size: 35px; 
+    border: solid; 
+   border-color: red;
+background-color: seagreen; 
+width: 130px; 
+}  
+h4 { 
+    color: blue; 
+    font-size: 50px; 
+    border: solid; 
+    border-color: chartreuse; 
+    background-color: crimson; 
+    width: 150px;
+} 
+*{ 
+    background-color: silver; 
+    font-size: 20px;  
+    color: darkblue;
+    
+}
+ img { 
+     border: solid; 
+     border-color: skyblue; 
+     border-width: 4px; 
+     border-radius: 4px; 
+     margin-left: 70px; 
+     margin-bottom: 20px;
+ } 
+ .p { 
+     border: solid; 
+     border-color: #A643; 
+     border-radius: 7px; 
+     padding-left: 70px; 
+     opacity: 1;
+     margin-bottom: 20px;
+
+     
+ } 
+ .b { 
+     border: solid;
+     border-color: #404bA0; 
+     border-radius: 7px; 
+     margin-left: 70px; 
+     margin-bottom: 20px;
+ } 
+ .s { 
+     border: solid; 
+    border-color:#B0C030 ; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-bottom: 20px;
+} 
+.pa { 
+    border: solid; 
+    border-color:#404bA0; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-bottom: 20px;
+
+}
+.pb { 
+    border: solid; 
+    border-color: #404bA0; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-bottom: 20px;
+    
+    
+} 
+.d { 
+    border: solid; 
+    border-color: #B0C030 ; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+} 
+.r { 
+    border: solid; 
+    border-color:#4050F8; 
+    border-radius: 7px; 
+    margin-bottom: 20px; 
+    margin-left: 70px; 
+    margin-bottom: 20px;
+}
+.pan{ 
+    border: solid; 
+    border-color: #404bA0; 
+    border-radius: 7px; 
+    margin-bottom: 20px; 
+    margin-left: 70px;
+} 
+.b { 
+    border: solid; 
+    border-color:#404bA0; 
+    border-radius: 7px; 
+    margin-left: 70px;
+    margin-bottom: 20px;
+} 
+.n { 
+    border: solid; 
+    border-color: #50b020  ; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-top: 20px;
+} 
+.ff{ 
+    border: solid; 
+    border-color: #404bA0; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-bottom: 20px;
+} 
+.sp { 
+    border: solid; 
+    border-color: #B0C030 ; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+} 
+.bd { 
+    border: solid; 
+    border-color: #50b020 ; 
+    border-radius: 7px; 
+    margin-bottom: 20px; 
+    margin-left: 70px; 
+    margin-bottom:20px ;
+} 
+.bt {  
+    border: solid; 
+    border-color: #4050F8 ; 
+    border-radius: 7px; 
+    margin-left: 70px; 
+    margin-bottom: 20px;
+} 
+a:visited{ 
+    color: blue;
+}
+a:link { 
+    color: crimson;
+}
